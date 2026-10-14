@@ -131,6 +131,10 @@ a {
     border-bottom: 1px solid var(--accent-strong);
 }
 
+.contact a:hover {
+    border-bottom: 3px solid var(--accent-strong);
+}
+
 /* Sections */
 .section {
     margin-bottom: var(--group-gap);
